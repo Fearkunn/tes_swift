@@ -14,7 +14,7 @@ struct ContentView: View {
                 // Text: displays text on screen
                 Text("Hello, Fanny!")
                     .font(.title)              // Makes text larger
-                    .foregroundColor(.tes)    // Changes text color
+                    .foregroundColor(.blue)    // Changes text color
                 
                 Text("Welcome to the Sample App")
                     .font(.headline)

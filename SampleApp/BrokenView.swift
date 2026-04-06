@@ -19,7 +19,7 @@ struct BrokenView: View {
             // ERROR 1: Missing closing brace
             HStack {
                 Image(systemName: "exclamationmark.triangle")
-                    .foregroundColor(.orange)
+                    .foregroundColor(.red)
                 Text("Something is wrong here")
                 // Hint: HStack needs a closing }
                 
