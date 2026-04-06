@@ -25,7 +25,7 @@ struct BrokenView: View {
                 
                 // ERROR 2: Typo in modifier name
                 Text("Check the spelling")
-                    .foregroundColor(.red)
+                    .foregroundColor(.tes)
                 // Hint: Look carefully at "forgroundColor"
                 
                 // ERROR 3: Missing closing parenthesis
