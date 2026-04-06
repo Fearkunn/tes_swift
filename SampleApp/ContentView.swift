@@ -12,7 +12,7 @@ struct ContentView: View {
             VStack(spacing: 20) {
                 
                 // Text: displays text on screen
-                Text("Hello, Fanny!")
+                Text("Hello, Bee!")
                     .font(.title)              // Makes text larger
                     .foregroundColor(.blue)    // Changes text color
                 
